@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Auth</string>
+    <string name="started_title">Hello You!</string>
+    <string name="started_sub_title">Nice to meet you, come join our community!<br><b>Login</b> if you already have an account.</br><br><b>Register</b> to get started with the app.</br></string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+</resources>
